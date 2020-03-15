@@ -1,0 +1,10 @@
+@import './tailwind.css';
+@import './fonts.css';
+
+:root {
+  --brand-purple: #4402ff;
+  --brand-slate: #171a1c;
+  --brand-gray: #96989c;
+  --brand-offwhite: #f1f4fa;
+}
+
